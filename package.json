@@ -1,0 +1,10 @@
+{
+  "name": "habit-log",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "No build step: upload the files to GitHub Pages as they are. This file is only for running the tests.",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}
