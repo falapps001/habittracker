@@ -1,6 +1,6 @@
 // Service worker: Habit Log tetap terbuka tanpa internet.
 // Ganti angka versi setiap kali file aplikasi diperbarui, supaya perangkat mengambil versi baru.
-const V = 'habit-log-1.0.0';
+const V = 'habit-log-1.0.1';
 const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'store.js', 'sync.js', 'firebase.js', 'firebase-config.js',
   'manifest.webmanifest', 'icons/icon.svg', 'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 const CDN = ['www.gstatic.com', 'fonts.googleapis.com', 'fonts.gstatic.com'];
